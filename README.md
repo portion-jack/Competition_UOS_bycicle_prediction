@@ -1,6 +1,16 @@
 # 2022 UOS 빅데이터 알고리즘 경진대회
 
+```
+To DO
+answer based on 
+raw_voting_ans.csv 
+ps : 1.2 made 1.602
+```
+
+
 ### Data
+
+
 
 ```
 data
