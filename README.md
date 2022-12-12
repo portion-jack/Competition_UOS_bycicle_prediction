@@ -7,10 +7,23 @@ raw_voting_ans.csv
 ps : 1.2 made 1.602
 ```
 
+## Trials
+1. column => (day, week, month, year, weekend)
+- regression
+
+2. column => (day, week, month, year, weekend)
+- weekend edit with pytimekr (hollydays)
+- regression
+
+3. column => (week, month, year, weekend)
+- weeken edit with pytimekr
+- day is too various for data so using week_of_year base
+
+4. 
+
+
 
 ### Data
-
-
 
 ```
 data
@@ -18,6 +31,10 @@ data
 - raw data -> drop rain data, -> year, month, day, weekday -> ans
 - raw data -> smooth -> year, month, day, weekday -> ans -> smooth ans 
 ```
+
+
+
+
 
 ```
 .
