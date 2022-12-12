@@ -2,6 +2,9 @@
 
 ### Final Score
 
+https://dacon.io/competitions/official/236029/leaderboard
+
+
 ```
 public => 12/514
 private (total) => 16/514
