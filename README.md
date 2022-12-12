@@ -1,5 +1,13 @@
 # 2022 UOS 빅데이터 알고리즘 경진대회
 
+### Final Score
+
+```
+public => 12/514
+private (total) => 16/514
+```
+
+
 ```
 To DO
 answer based on 
