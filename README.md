@@ -13,13 +13,6 @@ private (total) => 16/514
 <img width="1077" alt="image" src="https://user-images.githubusercontent.com/112222918/206994002-f72e953a-6240-48e7-abdb-34fe1fe7c788.png">
 
 
-```
-To DO
-answer based on 
-raw_voting_ans.csv 
-ps : 1.2 made 1.602
-```
-
 ## Trials
 1. column => (day, week, month, year, weekend)
 - regression
