@@ -9,7 +9,6 @@ https://dacon.io/competitions/official/236029/leaderboard
 public => 12/602
 private (total) => 16/602
  => private (total) (except disqualified) => 8/602
- (Data leakage 탈락)
 ```
 
 <img width="1077" alt="image" src="https://user-images.githubusercontent.com/112222918/206994002-f72e953a-6240-48e7-abdb-34fe1fe7c788.png">
